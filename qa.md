@@ -1,0 +1,6 @@
+|  | czeladnik L1 | specjalista L2 | mistrz L3 |
+|---|---|---|---|
+| **Doświadczenie** | do 2 lat doświadczenia | do 2 lat po etapie czeladnika nie wcześniej niż rok po etapie czeladnika | do 3 lat po etapie specjalisty nie wcześniej niż rok po etapie specjalisty |
+| **Umiejętności QA** | Uczysz się sposobu pracy w Aexol. Potrafisz przeprowadzić testy manualne na  projektach, na których pracujesz. | Jesteś w stanie samodzielnie tworzyć testy automatyczne | Jesteś w stanie samodzielnie tworzyć testy automatyczne . Proponujesz nowe UXowe rozwiązania napotkanych problemów |
+| **Produktywność** | Jesteś w stanie pracować na przydzielonych ogólnych zadaniach. | Potrafi pracować nad jasno zdefiniowanymi  i określonymi zakresami poszczególnych funkcji lub problemów. Tworzysz nowe zadania jeśli zajdzie taka potrzeba i dodajesz je do boarda z dokładnym opisem | Potrafisz samodzielnie i współpracując z zarządem nadzorować pracę wszystkich projektów w twojej gałęzi. |
+| **Tooling** | Potrafisz korzystać z narzędzi do twojej specjalizacji takich jak Excel,  Przeglądarki internetowe, urządzenia mobilne, TestFlight. | Uczysz się tworzyć testy automatyczne za pomocą Chrome DevTools Recorder. | Doskonale znasz narzędzia do testów manualnych i automatycznych. Wnosisz feedback do wewnętrznych narzędzi automatyzujących i wyznaczasz im kierunek. |
