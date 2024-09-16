@@ -1,0 +1,27 @@
+{
+    "index" :"Hello world",
+    "developers":{
+        "title": "Developers",
+        "theme":{
+            "breadcrumb": false,
+            "sidebar": false,
+            "toc": false
+        }
+    },
+    "designers":{
+        "title": "Designers",
+        "theme":{
+            "breadcrumb": false,
+            "sidebar": false,
+            "toc": false
+        }
+    },
+    "qa":{
+        "title": "QA",
+        "theme":{
+            "breadcrumb": false,
+            "sidebar": false,
+            "toc": false
+        }
+    }
+}

@@ -1,0 +1,29 @@
+.pathtable{
+    margin-left: 0rem;
+    margin-right: 0rem;
+    font-size: 0.8rem;
+}
+@media (min-width: 768px) {
+    .pathtable{
+        margin-left: 0rem;
+        margin-right: 0rem;
+    }
+}
+@media (min-width: 1024px){
+    .pathtable{
+        margin-left: -6rem;
+        margin-right: -6rem;
+    }
+}
+@media (min-width: 1280px){
+    .pathtable{
+        margin-left: -12rem;
+        margin-right: -12rem;
+    }
+}
+@media (min-width: 1620px){
+    .pathtable{
+        margin-left: -24rem;
+        margin-right: -24rem;
+    }
+}
