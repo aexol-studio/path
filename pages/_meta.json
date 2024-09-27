@@ -23,5 +23,13 @@
             "sidebar": false,
             "toc": false
         }
+    },
+    "pma":{
+        "title": "PM & Account",
+        "theme":{
+            "breadcrumb": false,
+            "sidebar": false,
+            "toc": false
+        }
     }
 }
